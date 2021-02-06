@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/336434305.svg)](https://zenodo.org/badge/latestdoi/336434305)
+
 # parentoffspringconflict
 
 This repository contains all code necessary to reproduce:
