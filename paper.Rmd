@@ -1,11 +1,22 @@
 ---
 title: Parent-Offspring Conflict and Bargaining Behaviors in Adolescence and Young Adulthood among Chon Chuuk (Chuukese) Micronesians
-author: "Kristen L. Syme and Edward H. Hagen"
-date: "Feb 5, 2021"
+author:
+- name: Kristen L. Syme
+  affiliation: Department of Experimental and Applied Psychology, Vrije Universiteit Amsterdam
+- name: Edward H. Hagen
+  affiliation: Department of Anthropology, Washington State University
+date: "May 11, 2019"
 always_allow_html: true
-output: 
-  bookdown::html_document2:
+base_url: https://grasshoppermouse.github.io
+preview: twittercard.png
+twitter:
+  creator: "@kristensyme"
+output:
+  distill::distill_article:
+    self_contained: true
     number_sections: false
+    toc: true
+    toc_float: true
 bibliography: ChuukPOconflict.bib
 ---
 
