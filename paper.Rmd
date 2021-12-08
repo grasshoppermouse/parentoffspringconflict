@@ -7,7 +7,7 @@ author:
   affiliation: Department of Anthropology, Washington State University
 date: "May 11, 2019"
 always_allow_html: true
-base_url: https://grasshoppermouse.github.io
+base_url: https://grasshoppermouse.github.io/parentoffspringconflict
 preview: twittercard.png
 twitter:
   creator: "@kristensyme"
